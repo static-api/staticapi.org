@@ -1,0 +1,3 @@
+[submodule "api/pt-zipcode"]
+	path = api/pt-zipcode
+	url = git@github.com:static-api/pt-zipcode.git
